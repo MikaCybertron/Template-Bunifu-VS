@@ -1,4 +1,4 @@
-# Template-Bunifu-VS
+# Template Bunifu Visual Studio
 
 
 # Credits
